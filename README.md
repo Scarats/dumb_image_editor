@@ -1,4 +1,4 @@
-# Dumd drawing editor
+# Dumd image editor
 
 You know about Paint the software ? Well it's the same but in worse, you can just just use .dumb files and edit them. You can draw with 4 different colors, erase, and export!!!!! WOOOOW
 _Oh and it's also the fdf project from 42, so you can open **.fdf** maps_
